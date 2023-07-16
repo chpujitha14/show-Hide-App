@@ -1,0 +1,44 @@
+.app-container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+}
+
+.container {
+  text-align: center;
+  border-radius: 12px;
+  padding: 24px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+
+.button {
+  font-size: 16px;
+  border: none;
+  padding: 16px;
+  border-radius: 8px;
+  margin: 10px;
+  color: #dd1264;
+}
+.container-1 {
+  height: 20vh;
+  width: 50vh;
+  text-align: center;
+  border-radius: 12px;
+  padding: 10px;
+  background-color: #fddddb;
+  border-radius: 8px;
+  color: black;
+  margin: 10px;
+}
+.name-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
